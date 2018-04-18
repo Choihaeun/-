@@ -5,3 +5,9 @@ practice
 1
 2
 >>>>>>> .merge_file_a08964
+
+Hello, Yurim.
+I'm very tired.
+Hahahhahahahahaahhahhaahaaaa...
+Please merge this letter.
+Bye.
